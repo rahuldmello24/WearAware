@@ -1,0 +1,17 @@
+# Ignore all data files and folders
+data/
+
+# Optional: ignore checkpointed models/logs (if you save them later)
+models/
+results/
+logs/
+
+# Python environment files
+*.pyc
+__pycache__/
+.env
+.venv
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
