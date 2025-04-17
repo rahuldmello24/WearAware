@@ -1,8 +1,6 @@
 # Ignore all data files and folders
-data/
 
 # Optional: ignore checkpointed models/logs (if you save them later)
-models/
 results/
 logs/
 
