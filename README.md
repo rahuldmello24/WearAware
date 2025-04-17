@@ -83,7 +83,7 @@ This project explores **unsupervised anomaly detection** from **multimodal weara
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The raw signal files are not included in the repo. You may need to populate `emowear_raw_data/` with source `.csv` files.
 - You can download the raw '.csv' files from here: https://zenodo.org/records/10407279
