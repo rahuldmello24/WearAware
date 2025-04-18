@@ -1,0 +1,24 @@
+# core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# machine learning
+scikit-learn
+
+# deep learning
+tensorflow>=2.11
+keras
+
+# jupyter notebooks
+notebook
+jupyterlab
+
+# optional utilities
+tqdm
+ipython
+os
+glob
+random
